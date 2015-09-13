@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a git repository, git creates metadata to track the history of the repository. The reason for doing this is to give you the ability to revert back to previous commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is different from the working directory in that you can add files from the working directory before making a commit. The staging area is different from the repository in that the repository is the collection of all the commits and the staging area is where you place files before making a commit. The staging area is of value because it gives you the ability to place a pre determined amount of files from your working directory to create a commit.
+
