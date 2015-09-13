@@ -7,4 +7,7 @@ The staging area is different from the working directory in that you can add fil
 How can you use the staging area to make sure you have one commit per logical change?
 The staging area gives you the ability to place the file you made the change in into the commit while keeping the others the way they are. Therefore you achieve one commit per logical change.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When making experimental changes to files or creating different versions of games are situations that branches are helpful in keeping history organized. Branches make the version control process more flexible and efficient.
+
 
