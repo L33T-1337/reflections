@@ -10,4 +10,8 @@ The staging area gives you the ability to place the file you made the change in 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When making experimental changes to files or creating different versions of games are situations that branches are helpful in keeping history organized. Branches make the version control process more flexible and efficient.
 
+How do the diagrams help you visualize the branch structure?
+The diagram puts the branch concept in to perspective.
+
+
 
