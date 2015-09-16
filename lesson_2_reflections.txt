@@ -13,5 +13,9 @@ When making experimental changes to files or creating different versions of game
 How do the diagrams help you visualize the branch structure?
 The diagram puts the branch concept in to perspective.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches together is adding the changes from both branches into one branch, usually the master branch. The representation of merging in the diagram is done in the way it is because it puts the concept in a visual perspective. 
+
+
 
 
